@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Armando Tamayo 👋
 
-<!--
-**MandoBug/MandoBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Engineering & Applied Mathematics student** at UC Santa Cruz with a strong interest in **software engineering, AI/ML, and embedded systems/IoT**. I love building projects that combine low-level hardware control with high-level data science to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- **GPA:** 3.98 | Tau Beta Pi Engineering Honor Society member  | Colorstack Affiliate
+- **Interests:** Machine Learning, IoT, Cloud Computing, Full-Stack Development  
+- **Current Focus:** ESP32 IoT projects and portfolio-ready SWE/AI projects  
+- **Fun fact:** I also run a small barbering business and built my own booking platform!
+
+---
+
+## 🛠 Skills
+**Languages:** Python, C, JavaScript, SQL, Assembly  
+**Frameworks & Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, React, Node.js, Flask  
+**Tools & Platforms:** Git, VS Code, Docker, AWS, Google Colab, Linux  
+
+---
+
+## 📫 Connect With Me
+- **Email:** [aratamay@ucsc.edu](mailto:aratamay@ucsc.edu)  
+- **LinkedIn:** [linkedin.com/in/armando-tamayo](https://www.linkedin.com/in/armando-tamayo-518519335/)  
+- **GitHub:** [github.com/MandoBug](https://github.com/MandoBug)
+
+---

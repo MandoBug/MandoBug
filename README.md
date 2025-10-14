@@ -5,7 +5,7 @@ I’m a **Computer Engineering & Applied Mathematics student** at UC Santa Cruz 
 ---
 
 ## 🌟 About Me
-- **GPA:** 3.98 | Tau Beta Pi Engineering Honor Society member  | Colorstack Affiliate
+- **GPA:** 3.98, 4.00 | Tau Beta Pi Engineering Honor Society member  | Colorstack Affiliate
 - **Interests:** Machine Learning, IoT, Cloud Computing, Full-Stack Development  
 - **Current Focus:** ESP32 IoT projects and portfolio-ready SWE/AI projects  
 - **Fun fact:** I also run a small barbering business and built my own booking platform!

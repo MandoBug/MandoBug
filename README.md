@@ -4,9 +4,9 @@ I’m a first-generation Computer Engineering & Applied Mathematics student at U
 
 🌟 About Me
 
-Education: B.S. Computer Engineering & Applied Mathematics, UC Santa Cruz
+Education: B.S. Computer Engineering & B.S. Applied Mathematics, UC Santa Cruz
 
-GPA: 3.98 / 4.00
+GPA: 3.98 & 4.00
 
 Honors: Tau Beta Pi Engineering Honor Society, AI4ALL Ignite, ColorStack
 

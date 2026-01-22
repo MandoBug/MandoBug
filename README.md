@@ -1,27 +1,49 @@
-# Hi, I'm Armando Tamayo 👋
+Hi, I’m Armando Tamayo 👋
 
-I’m a **Computer Engineering & Applied Mathematics student** at UC Santa Cruz with a strong interest in **software engineering, AI/ML, and embedded systems/IoT**. I love building projects that combine low-level hardware control with high-level data science to solve real-world problems.
+I’m a first-generation Computer Engineering & Applied Mathematics student at UC Santa Cruz with a strong interest in software engineering, data science, and full-stack development, especially at the intersection of hardware and software. I enjoy building reliable, data-driven systems and user-facing tools that solve real-world problems.
 
----
+🌟 About Me
 
-## 🌟 About Me
-- **GPA:** 3.98, 4.00 | Tau Beta Pi Engineering Honor Society member  | Colorstack Affiliate
-- **Interests:** Machine Learning, IoT, Cloud Computing, Full-Stack Development  
-- **Current Focus:** ESP32 IoT projects and portfolio-ready SWE/AI projects  
-- **Fun fact:** I also run a small barbering business and built my own booking platform!
+Education: B.S. Computer Engineering & Applied Mathematics, UC Santa Cruz
 
----
+GPA: 3.98 / 4.00
 
-## 🛠 Skills
-**Languages:** Python, C, JavaScript, SQL, Assembly  
-**Frameworks & Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, React, Node.js, Flask  
-**Tools & Platforms:** Git, VS Code, Docker, AWS, Google Colab, Linux  
+Honors: Tau Beta Pi Engineering Honor Society, AI4ALL Ignite, ColorStack
 
----
+Focus Areas: Software Engineering, Data Analytics, Machine Learning, Full-Stack Development
 
-## 📫 Connect With Me
-- **Email:** [aratamay@ucsc.edu](mailto:aratamay@ucsc.edu)  
-- **LinkedIn:** [linkedin.com/in/armando-tamayo](https://www.linkedin.com/in/armando-tamayo-518519335/)  
-- **GitHub:** [github.com/MandoBug](https://github.com/MandoBug)
+Background: First-generation college student driven by curiosity, persistence, and impact
 
----
+🧠 What I Work On
+
+Data & ML pipelines analyzing large, real-world datasets (feature engineering, modeling, evaluation)
+
+Full-stack applications with modern frontend frameworks and scalable backends
+
+Systems and performance-focused projects (multithreading, networking, low-level optimization)
+
+Hardware–software adjacent work, including embedded systems and IoT exploration
+
+🛠 Technical Skills
+
+Languages: Python, C, C++, Java, SQL, TypeScript, Verilog, MATLAB
+Frameworks & Libraries: React, Node.js, Express, NumPy, Pandas, Scikit-learn, TensorFlow
+Tools & Platforms: AWS (EC2, Lambda, S3), Docker, Git/GitHub, Linux, Google Colab, VS Code
+
+🚀 Featured Work
+
+Environmental Epidemiology ML Pipeline (AI4ALL Ignite): End-to-end data and ML pipeline analyzing 20+ years of pesticide exposure and respiratory health data, with an interactive Streamlit dashboard.
+
+Multithreaded HTTP Server: High-performance C server using POSIX threads and sockets.
+
+Full-Stack Web Apps: Production-deployed applications with real users, analytics, and cloud infrastructure.
+
+(See pinned repositories below for demos and code.)
+
+📫 Connect With Me
+
+Email: aratamay@ucsc.edu
+
+LinkedIn: linkedin.com/in/armando-tamayo
+
+GitHub: github.com/MandoBug

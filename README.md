@@ -1,49 +1,88 @@
-Hi, I’m Armando Tamayo 👋
+# Hey, I'm Armando 👋
 
-I’m a first-generation Computer Engineering & Applied Mathematics student at UC Santa Cruz with a strong interest in software engineering, data science, and full-stack development, especially at the intersection of hardware and software. I enjoy building reliable, data-driven systems and user-facing tools that solve real-world problems.
+I'm a double-degree student at UC Santa Cruz studying **Computer Engineering** and **Applied Mathematics**, passionate about building things that actually work — from low-level systems to full-stack web apps to machine learning pipelines.
 
-🌟 About Me
+---
 
-Education: B.S. Computer Engineering & B.S. Applied Mathematics, UC Santa Cruz
+## 🎓 Education
 
-GPA: 3.98 & 4.00
+**University of California, Santa Cruz** — Expected June 2027
 
-Honors: Tau Beta Pi Engineering Honor Society, AI4ALL Ignite, ColorStack
+- 📐 B.S. Applied Mathematics — **GPA: 4.00** — Dean's Honor List
+- 💻 B.S. Computer Engineering — **GPA: 3.98** — Dean's Honor List
 
-Focus Areas: Software Engineering, Data Analytics, Machine Learning, Full-Stack Development
+---
 
-Background: First-generation college student driven by curiosity, persistence, and impact
+## 🛠️ Projects
 
-🧠 What I Work On
+### 🎵 [Automated Beats – Interactive Music Generator](https://automated-beats.vercel.app/)
+> React · TypeScript · Vite · Tailwind
 
-Data & ML pipelines analyzing large, real-world datasets (feature engineering, modeling, evaluation)
+An interactive beat-making app with animated UI, preset loops, and real-time controls. Reduced load time by 45% via asset preloading and code splitting. Users can stack/toggle tracks with <50ms audio delay and export 60-second rendered beats.
 
-Full-stack applications with modern frontend frameworks and scalable backends
+---
 
-Systems and performance-focused projects (multithreading, networking, low-level optimization)
+### 📸 [Digital Scrapbook Platform](https://www.mandoxjadyn.love/)
+> React · TypeScript · Python · AWS S3 · Vercel
 
-Hardware–software adjacent work, including embedded systems and IoT exploration
+A production-ready multimedia web app for organizing 100+ images and videos. Features a custom SVG zig-zag timeline built with Bézier curves that adapts to content and screen size. AWS S3 lazy loading reduced initial load time by ~40%.
 
-🛠 Technical Skills
+---
 
-Languages: Python, C, C++, Java, SQL, TypeScript, Verilog, MATLAB
-Frameworks & Libraries: React, Node.js, Express, NumPy, Pandas, Scikit-learn, TensorFlow
-Tools & Platforms: AWS (EC2, Lambda, S3), Docker, Git/GitHub, Linux, Google Colab, VS Code
+### 🌿 [Environmental Epidemiology ML Pipeline](https://ai4allenvironmentalepidemiology.streamlit.app/)
+## Won AI 4 Good Award out of hundreds of teams.
+> Python · Pandas · Scikit-learn · XGBoost · Streamlit
 
-🚀 Featured Work
+End-to-end ML pipeline analyzing 20+ years of pesticide exposure and COPD hospitalization data. Engineered 1,000+ county-year features from millions of raw records. Trained and compared Linear, Random Forest, and XGBoost models, with results visualized in an interactive Streamlit dashboard.
 
-Environmental Epidemiology ML Pipeline (AI4ALL Ignite): End-to-end data and ML pipeline analyzing 20+ years of pesticide exposure and respiratory health data, with an interactive Streamlit dashboard.
+---
 
-Multithreaded HTTP Server: High-performance C server using POSIX threads and sockets.
+### ⚙️ Multithreaded HTTP Server
+> C · POSIX Threads · Sockets
 
-Full-Stack Web Apps: Production-deployed applications with real users, analytics, and cloud infrastructure.
+Thread-pooled HTTP/1.1 server handling 10K+ concurrent requests with sub-ms response times. Achieved 3× performance gain over baseline through optimized scheduling and request batching.
 
-(See pinned repositories below for demos and code.)
+---
 
-📫 Connect With Me
+### 📡 Raspberry Pi Network Ad-Blocker (Pi-hole)
+> Linux · DNS · Bash · Networking
 
-Email: aratamay@ucsc.edu
+Built a DNS filtering system to block ads and trackers network-wide. Configured static IP routing, DNS forwarding, and Linux services, with SSH + firewall rules for remote monitoring.
 
-LinkedIn: linkedin.com/in/armando-tamayo
+---
 
-GitHub: github.com/MandoBug
+## 💼 Experience
+
+**ITS Learning Technologies Consultant** — UC Santa Cruz *(Sept 2023 – Present)*
+Supporting 1,000+ students, faculty, and staff across campus labs. Maintained 99%+ lab uptime and streamlined ticket workflows to cut resolution time by 15–20%.
+
+**Founder & Full-Stack Developer** — Student Barber Booking Platform *(2022 – Present)*
+Built and deployed a full-stack scheduling platform with real-time booking, SMS/email confirmations via Twilio and Nodemailer — reducing no-shows by 30% across 200+ annual appointments.
+
+**Peer Navigator / Teaching Assistant** — UC Santa Cruz *(Jun – Sept 2024)*
+Mentored 50+ first-year CS students in intro programming and calculus. Led weekly study sessions that improved average performance by 10–15%.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python · C · C++ · Java · SQL · Verilog · MATLAB · TypeScript
+
+**Frameworks/Libraries:** React · Node.js · Express · Vite · NumPy · Pandas · Scikit-learn · TensorFlow
+
+**Tools/Platforms:** AWS (EC2, Lambda, S3) · Docker · Git/GitHub · Linux · Xilinx Vivado · VS Code · Google Colab
+
+---
+
+## 🏆 Leadership & Honors
+
+- Tau Beta Pi Engineering Honor Society
+- ColorStack · Minority Leaders in Tech · AI4ALL Ignite
+- EOP & MESA affiliate — first-generation college student and advocate
+- Vince Wesson Scholar Athlete ($5,000 award)
+- 3× Wrestling Captain · Valedictorian
+- Formula Slug — engineering design & data analysis
+
+---
+
+📬 **mandoschool1@gmail.com** · [LinkedIn](https://linkedin.com/in/armando-tamayo) · [GitHub](https://github.com/MandoBag)

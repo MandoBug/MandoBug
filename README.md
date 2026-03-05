@@ -16,6 +16,7 @@ I'm a double-degree student at UC Santa Cruz studying **Computer Engineering** a
 ## 🛠️ Projects
 
 ### 🎵 [Automated Beats – Interactive Music Generator](https://automated-beats.vercel.app/)
+![Automated Beats demo](assets/beats_gif.gif)
 > React · TypeScript · Vite · Tailwind
 
 An interactive beat-making app with animated UI, preset loops, and real-time controls. Reduced load time by 45% via asset preloading and code splitting. Users can stack/toggle tracks with <50ms audio delay and export 60-second rendered beats.
@@ -23,6 +24,7 @@ An interactive beat-making app with animated UI, preset loops, and real-time con
 ---
 
 ### 📸 [Digital Scrapbook Platform](https://www.mandoxjadyn.love/)
+![Scrapbook demo](assets/scrap_gif.gif)
 > React · TypeScript · Python · AWS S3 · Vercel
 
 A production-ready multimedia web app for organizing 100+ images and videos. Features a custom SVG zig-zag timeline built with Bézier curves that adapts to content and screen size. AWS S3 lazy loading reduced initial load time by ~40%.
@@ -30,6 +32,7 @@ A production-ready multimedia web app for organizing 100+ images and videos. Fea
 ---
 
 ### 🌿 [Environmental Epidemiology ML Pipeline](https://ai4allenvironmentalepidemiology.streamlit.app/)
+![ML Pipeline demo](assets/env_gif.gif)
 ## Won AI 4 Good Award out of hundreds of teams.
 > Python · Pandas · Scikit-learn · XGBoost · Streamlit
 

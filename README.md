@@ -85,4 +85,4 @@ Mentored 50+ first-year CS students in intro programming and calculus. Led weekl
 
 ---
 
-📬 **mandoschool1@gmail.com** · [LinkedIn](https://linkedin.com/in/armando-tamayo) · [GitHub](https://github.com/MandoBag)
+📬 **mandoschool1@gmail.com** · [LinkedIn]([https://linkedin.com/in/armando-tamayo](https://www.linkedin.com/in/armando-tamayo-518519335/)) · [GitHub]([https://github.com/MandoBag](https://github.com/MandoBug))

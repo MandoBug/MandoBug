@@ -39,7 +39,7 @@ A production-ready multimedia web app for organizing 100+ images and videos. Fea
 End-to-end ML pipeline analyzing 20+ years of pesticide exposure and COPD hospitalization data. Engineered 1,000+ county-year features from millions of raw records. Trained and compared Linear, Random Forest, and XGBoost models, with results visualized in an interactive Streamlit dashboard.
 
 ---
-### 🌟 [Binary Star System – Orbital Mechanics Simulation](https://github.com/MandoBug/binary-star-system)
+### 🌟 [Binary Star System – Orbital Mechanics Simulation](https://github.com/MandoBug/BinaryStar)
 ![Binary Star System demo](assets/binary-star-demo.gif)
 > Python · Taichi · NumPy
 

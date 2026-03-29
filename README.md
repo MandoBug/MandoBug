@@ -15,6 +15,14 @@ I'm a double-degree student at UC Santa Cruz studying **Computer Engineering** a
 
 ## 🛠️ Projects
 
+### 📊 [LC Tracker – LeetCode Analytics Dashboard](https://lcdashboard.live)
+![LC Tracker demo](assets/lc-tracker-gif.gif)
+> Python · FastAPI · PostgreSQL · Redis · React · Recharts · Machine-Learning
+
+A full-stack LeetCode analytics dashboard with a real-time GraphQL poller, Redis message queue, and ML recommendation engine. Automatically tracks submissions, surfaces weak topics using weighted scoring, and suggests what to practice next.
+
+---
+
 ### 🎵 [Automated Beats – Interactive Music Generator](https://automated-beats.vercel.app/)
 ![Automated Beats demo](assets/beats_gif.gif)
 > React · TypeScript · Vite · Tailwind

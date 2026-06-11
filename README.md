@@ -56,7 +56,7 @@ Led a 5-person Agile team as **Product Owner** across 4 sprints to ship a full-s
 ![Nail site demo](assets/nail-site-demo.gif)
 > FastAPI · React · TypeScript · PostgreSQL · Stripe · Cloudinary · Google Calendar API
 
-A full-stack booking and studio-management app running **in production** for a real nail artist. Clients pay a Stripe deposit to *request* a slot; the artist confirms, reschedules, or declines from a private dashboard — backed by signature-verified webhooks, synchronous refunds, signed direct-to-Cloudinary uploads, and Google Calendar OAuth sync. [GitHub →](<NAIL_REPO_URL>)
+A full-stack booking and studio-management app running **in production** for a real nail artist. Clients pay a Stripe deposit to *request* a slot; the artist confirms, reschedules, or declines from a private dashboard — backed by signature-verified webhooks, synchronous refunds, signed direct-to-Cloudinary uploads, and Google Calendar OAuth sync. [GitHub →](https://github.com/MandoBug/nail_site)
 
 ---
 

@@ -62,9 +62,9 @@ A full-stack booking and studio-management app running **in production** for a r
 
 ### 📊 [LC Tracker — LeetCode Analytics Dashboard](https://lcdashboard.live)
 ![LC Tracker demo](assets/lc-tracker-gif.gif)
-> Python · FastAPI · PostgreSQL · Redis · React · Recharts · Machine Learning
+> Python · FastAPI · PostgreSQL · Redis · APScheduler · React · Recharts · Machine Learning
 
-A real-time analytics dashboard with a GraphQL poller, Redis message queue, and ML recommendation engine. Tracks submissions automatically, surfaces weak topics via weighted scoring, and suggests what to practice next using Laplace smoothing and log-scale recency decay. [GitHub →](https://github.com/MandoBug/leetcode-tracker)
+My LeetCode analytics dashboard and study system. A GraphQL poller feeds a Redis queue, and a fault-tolerant worker (blocking pops, exponential backoff) writes every submission to PostgreSQL. An ML scoring model (Laplace smoothing + log-scale recency decay) ranks the 27 topics that show up in interviews and suggests an Easy and a Medium problem for each, spaced repetition brings solved problems back at 1, 7, 30, and 90 days, and a weekly goal adapts to my pace. It also holds my study notes: a page per topic with interactive, step-through algorithm diagrams and commented templates. [GitHub →](https://github.com/MandoBug/leetcode-tracker)
 
 ---
 

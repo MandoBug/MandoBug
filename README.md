@@ -2,7 +2,7 @@
 
 I'm a double-degree student at UC Santa Cruz (**Computer Engineering** + **Applied Mathematics**) who likes building things end to end — data platforms and ML pipelines, full-stack production apps, and the low-level systems underneath. Lately I'm focused on **data engineering and applied AI**: shipping LLM-powered tools, RAG systems, and real-time data pipelines.
 
-> 🚀 **Incoming Data Platform Product Intern @ G-P (Globalization Partners)** — building internal data tooling and GenAI prototypes on Databricks / Unity Catalog.
+> 🚀 **Currently:** Data Platform Product Intern @ **G-P (Globalization Partners)**, building data tools and AI for payroll on Databricks, and Data & Software Engineering Intern @ **RREES Lab, UC Santa Cruz**, building a real-time power grid monitor.
 
 ---
 
@@ -18,7 +18,14 @@ I'm a double-degree student at UC Santa Cruz (**Computer Engineering** + **Appli
 ## 💼 Experience
 
 **Data Platform Product Intern** — G-P (Globalization Partners) *(June 2026 – Present · Remote)*
-Building internal data tools and GenAI prototypes on Databricks / Unity Catalog — Python services that monitor data freshness and pipeline health, integrating OpenAI/LLM APIs into internal data workflows.
+- Helped drive **$4M in upsells** with a dashboard that scores integration health and flags low-usage customers.
+- Cut Unity Catalog access approvals from **1+ week to minutes** with a Python/FastAPI + React app enforcing tiered, audited access.
+- Wrote Python monitors on Databricks that flag failed pipelines and stale data so teams fix issues before reports break.
+- Placed **2nd of 200+ teams** at the company hackathon with AI that catches payroll errors before money moves, then built a confidence × impact gate that lets it auto-fix **50%+** of them.
+- Integrated and trained **Genie**, Databricks' AI assistant, to answer payroll questions in plain English for non-technical staff.
+
+**Data & Software Engineering Intern** — RREES Lab, UC Santa Cruz *(Sept 2026 – Present · Santa Cruz, CA)*
+Advised by Prof. Patrick Mantey. Building **EADS**, a real-time power grid monitor that detects outages fast and pinpoints the cause: Python pipelines streaming high-rate sensor data from Raspberry Pi field nodes, plus voltage anomaly detection that catches failing equipment early and ranks alerts to cut false alarms.
 
 **Data Engineering Fellow** — Databricks Fellowship *(Aug 2025 – March 2026 · Remote)*
 Completed a competitive 20-week data engineering fellowship (Python, NLP, applied ML, pipelines). Built NLP workflows and supervised models (Linear Regression, XGBoost) with tuning and cross-validation, and delivered a 5-person capstone recognized among 200+ teams.
@@ -27,7 +34,7 @@ Completed a competitive 20-week data engineering fellowship (Python, NLP, applie
 Built and deployed a full-stack scheduling platform with real-time booking and Twilio/Nodemailer confirmations — cut no-shows by 30% across 200+ annual appointments.
 
 **Baskin Engineering Tutor** — UC Santa Cruz *(Feb 2026 – Present)*
-Tutor 200+ students in Signals & Systems and Data Structures & Algorithms through whiteboard sessions and live code demos; attendees averaged an A.
+Coached 200+ students to an A average in Signals & Systems and Data Structures & Algorithms, leading review sessions on Fourier transforms, convolution, and DSA alongside the course professor.
 
 **ITS Learning Technologies Consultant** — UC Santa Cruz *(Sept 2023 – Present)*
 Support 1,000+ students, faculty, and staff across campus labs, maintaining 99%+ uptime and cutting ticket resolution time by 15–20%.
@@ -56,7 +63,7 @@ Led a 5-person Agile team as **Product Owner** across 4 sprints to ship a full-s
 ![Nail site demo](assets/nail-site-demo.gif)
 > FastAPI · React · TypeScript · PostgreSQL · Stripe · Cloudinary · Google Calendar API
 
-A full-stack booking and studio-management app running **in production** for a real nail artist. Clients pay a Stripe deposit to *request* a slot; the artist confirms, reschedules, or declines from a private dashboard — backed by signature-verified webhooks, synchronous refunds, signed direct-to-Cloudinary uploads, and Google Calendar OAuth sync.  🔒 *Private repo (production app)*
+A full-stack booking and studio-management app running **in production** for a real nail artist, with **50+ active clients**, **60+ bookings**, and **$1K+ in Stripe deposits** protecting her from no-shows. Clients pay a deposit to *request* a slot; she confirms, reschedules, or declines from a private dashboard that also has a client history, a week view of her Google Calendar, and live sync between her phone and computer. Under the hood: signature-verified webhooks, synchronous refunds, signed direct-to-Cloudinary uploads, and Google Calendar OAuth sync.  🔒 *Private repo (production app)*
 
 ---
 
@@ -121,7 +128,7 @@ A network-wide DNS filtering system blocking ads and trackers. Configured static
 
 **Frameworks & Libraries:** React · Next.js · Node.js · Express · FastAPI · NumPy · Pandas · Scikit-learn · XGBoost · TensorFlow
 
-**Data & AI:** PostgreSQL · Redis · ChromaDB · Databricks · Unity Catalog · OpenAI / Claude APIs · RAG
+**Data & AI:** Databricks (Unity Catalog · Genie) · Spark · Snowflake · PostgreSQL · Redis · ChromaDB · OpenAI / Claude APIs · RAG · NLP
 
 **Tools & Platforms:** AWS (EC2 · Lambda · S3) · Docker · Stripe · Git/GitHub · Vercel · Railway · Linux
 

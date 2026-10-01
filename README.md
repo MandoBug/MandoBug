@@ -18,7 +18,14 @@ I'm a double-degree student at UC Santa Cruz (**Computer Engineering** + **Appli
 ## 💼 Experience
 
 **Data Platform Product Intern** — G-P (Globalization Partners) *(June 2026 – Present · Remote)*
-Building internal data tools and GenAI prototypes on Databricks / Unity Catalog — Python services that monitor data freshness and pipeline health, integrating OpenAI/LLM APIs into internal data workflows.
+- Helped drive **$4M in upsells** with a dashboard that scores integration health and flags low-usage customers.
+- Cut Unity Catalog access approvals from **1+ week to minutes** with a Python/FastAPI + React app enforcing tiered, audited access.
+- Wrote Python monitors on Databricks that flag failed pipelines and stale data so teams fix issues before reports break.
+- Placed **2nd of 200+ teams** at the company hackathon with AI that catches payroll errors before money moves, then built a confidence × impact gate that lets it auto-fix **50%+** of them.
+- Integrated and trained **Genie**, Databricks' AI assistant, to answer payroll questions in plain English for non-technical staff.
+
+**Data & Software Engineering Intern** — RREES Lab, UC Santa Cruz *(Sept 2026 – Present · Santa Cruz, CA)*
+Advised by Prof. Patrick Mantey. Building **EADS**, a real-time power grid monitor that detects outages fast and pinpoints the cause: Python pipelines streaming high-rate sensor data from Raspberry Pi field nodes, plus voltage anomaly detection that catches failing equipment early and ranks alerts to cut false alarms.
 
 **Data Engineering Fellow** — Databricks Fellowship *(Aug 2025 – March 2026 · Remote)*
 Completed a competitive 20-week data engineering fellowship (Python, NLP, applied ML, pipelines). Built NLP workflows and supervised models (Linear Regression, XGBoost) with tuning and cross-validation, and delivered a 5-person capstone recognized among 200+ teams.
@@ -27,7 +34,7 @@ Completed a competitive 20-week data engineering fellowship (Python, NLP, applie
 Built and deployed a full-stack scheduling platform with real-time booking and Twilio/Nodemailer confirmations — cut no-shows by 30% across 200+ annual appointments.
 
 **Baskin Engineering Tutor** — UC Santa Cruz *(Feb 2026 – Present)*
-Tutor 200+ students in Signals & Systems and Data Structures & Algorithms through whiteboard sessions and live code demos; attendees averaged an A.
+Coached 200+ students to an A average in Signals & Systems and Data Structures & Algorithms, leading review sessions on Fourier transforms, convolution, and DSA alongside the course professor.
 
 **ITS Learning Technologies Consultant** — UC Santa Cruz *(Sept 2023 – Present)*
 Support 1,000+ students, faculty, and staff across campus labs, maintaining 99%+ uptime and cutting ticket resolution time by 15–20%.

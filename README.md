@@ -2,7 +2,7 @@
 
 I'm a double-degree student at UC Santa Cruz (**Computer Engineering** + **Applied Mathematics**) who likes building things end to end — data platforms and ML pipelines, full-stack production apps, and the low-level systems underneath. Lately I'm focused on **data engineering and applied AI**: shipping LLM-powered tools, RAG systems, and real-time data pipelines.
 
-> 🚀 **Incoming Data Platform Product Intern @ G-P (Globalization Partners)** — building internal data tooling and GenAI prototypes on Databricks / Unity Catalog.
+> 🚀 **Currently:** Data Platform Product Intern @ **G-P (Globalization Partners)**, building data tools and AI for payroll on Databricks, and Data & Software Engineering Intern @ **RREES Lab, UC Santa Cruz**, building a real-time power grid monitor.
 
 ---
 
